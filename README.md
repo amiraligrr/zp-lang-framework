@@ -341,9 +341,4 @@ Please visit the live website to see the full design and functionality:
 https://zp.amiraligrr.ir
 
 
-— Amirali Granmayeh, 16, Iran
-
-Still building. One step at a time.
-The build never stops. Even if the internet does.
-
 Built by a 16-year-old from Iran. For everyone, everywhere.
